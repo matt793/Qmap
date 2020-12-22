@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./qmap.py
+qmap.py
