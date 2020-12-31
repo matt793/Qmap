@@ -4,14 +4,14 @@ import os
 from colorama import Fore
 
 print(Fore.RED)
-print("╭━━━╮          ")
-print("┃╭━╮┃          ")
-print("┃┃╱┃┣╮╭┳━━┳━━╮ ")
-print("┃┃╱┃┃╰╯┃╭╮┃╭╮┃ ")
-print("┃╰━╯┃┃┃┃╭╮┃╰╯┃ ")
-print("╰━━╮┣┻┻┻╯╰┫╭━╯ ")
-print("╱╱╱╰╯╱╱╱╱╱┃┃   ")
-print("╱╱╱╱╱╱╱╱╱╱╰╯   ")
+print("""╭━━━╮          
+         ┃╭━╮┃          
+         ┃┃╱┃┣╮╭┳━━┳━━╮ 
+         ┃┃╱┃┃╰╯┃╭╮┃╭╮┃ 
+         ┃╰━╯┃┃┃┃╭╮┃╰╯┃ 
+         ╰━━╮┣┻┻┻╯╰┫╭━╯ 
+         ╱╱╱╰╯╱╱╱╱╱┃┃   
+         ╱╱╱╱╱╱╱╱╱╱╰╯   """)
 print("/Speed//up your nmap")
 
 def menu():
